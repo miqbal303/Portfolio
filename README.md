@@ -4,7 +4,6 @@ Welcome to my Data Science portfolio! This repository showcases my educational b
 
 ## About Me
 - LinkedIn: [Mohammad Iqbal](https://www.linkedin.com/in/mohammad-iqbal-1b347485/)
-- GitHub: [miqbal303](https://github.com/miqbal303)
 - Email: miqbal303@gmail.com
 
 ## Objective
